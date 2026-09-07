@@ -1,6 +1,6 @@
 {
   "name" : "Les Incapables II",
-  "version" : "2.0.11",
+  "version" : "2.0.12",
   "neoforgeVersion" : "21.1.247",
   "files" : {
     "config/CoroUtil/General.toml" : "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49",
@@ -914,7 +914,6 @@
     "mods/DnT-woodland-mansion-replacement-v1.2 [NeoForge].jar" : "27496934f832f92a1c4f099bb2fe54808ed7ab3d84316cd955cfebbe0eb24b3e",
     "mods/EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar" : "8f0d315de1e404e5760297b862ab13f1d0f16246f9e6ce1db612ac332c4a2089",
     "mods/Explorer's Compass Enhance-1.21.1-neoforge-1.5.9.jar" : "9ab5089ac104e30abf932f55a94d513ef706658ceed0a6e5db7ac8e34edf7ee3",
-    "mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar" : "71e7b47bd88c9c210d7c06fe5276736fc2e225e869778216537d584e6d1faf24",
     "mods/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar" : "3c4152461540e3cce8fe25c3e1a1fa8ce6982bbad44dca6d3b7e30a05ab2d531",
     "mods/FarmersDelight-1.21.1-1.3.4.jar" : "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c",
     "mods/FramedBlocks-10.6.2.jar" : "3cc56f93deb36685eea437bfe35baca204769623bae626ac2b29522a086aece1",
@@ -928,7 +927,6 @@
     "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar" : "7a47d69b5530704690d5a5f0726cd74a2d6c57df17dd4a8589c4ab5212f91460",
     "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar" : "8ba2bc2cb894e48d8e7520d41c72ef7f429659c3ee58b029f4899c760b958493",
     "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar" : "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
-    "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar" : "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c",
     "mods/NeoAuth-1.21.1-1.0.0.jar" : "2592ace136b46ada25f8a9ffc4b268636aa711f44b8fddf6b2f78d680116c124",
     "mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar" : "ad4abc829b00061d4e162dee0dfa74219b3474d7f21385388aca8d5f27bf23d0",
     "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar" : "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38",
